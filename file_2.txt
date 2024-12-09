@@ -1,0 +1,9 @@
+
+----------------------------------------
+HI EVERY BODY!
+----------------------------------------
+  THIS IS JUST A DEMO TO KNOW HOW TO READ FROM AND WRITE TO FILES IN PYTHON.
+----------------------------------------
+HAVE A NICE DAY!
+----------------------------------------
+BAY BAY

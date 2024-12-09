@@ -1,0 +1,9 @@
+##&&&&#### .......
+
+Hi every body!
+
+  This is just a demo to know how to read from and write to files in python.
+
+Have a nice day!
+
+bay bay            &&.   
